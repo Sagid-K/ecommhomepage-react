@@ -1,0 +1,10 @@
+.under-line {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/3c518dc4b6968a56ff7d98e40f0e2d97/img/line-1-12.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  opacity: 0.5;
+  position: relative;
+  top: -1px;
+  width: 48px;
+}

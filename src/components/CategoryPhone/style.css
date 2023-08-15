@@ -1,0 +1,89 @@
+.category-phone {
+  border-radius: 4px;
+  height: 145px;
+  overflow: hidden;
+  position: relative;
+  width: 170px;
+}
+
+.category-phone .phones {
+  font-family: var(--title-16px-regular-font-family);
+  font-size: var(--title-16px-regular-font-size);
+  font-style: var(--title-16px-regular-font-style);
+  font-weight: var(--title-16px-regular-font-weight);
+  letter-spacing: var(--title-16px-regular-letter-spacing);
+  line-height: var(--title-16px-regular-line-height);
+  position: absolute;
+  top: 96px;
+  white-space: nowrap;
+}
+
+.category-phone .category-cellphone {
+  height: 56px !important;
+  left: 57px !important;
+  position: absolute !important;
+  top: 25px !important;
+  width: 56px !important;
+}
+
+.category-phone.hover-1-true {
+  background-color: var(--secondary-2);
+  box-shadow: var(--categogy-5);
+}
+
+.category-phone.hover-1-false {
+  border: 1px solid;
+  border-color: #0000004c;
+}
+
+.category-phone .gaming {
+  left: 53px;
+}
+
+.category-phone .camera {
+  left: 51px;
+}
+
+.category-phone .smart-watch {
+  left: 34px;
+}
+
+.category-phone .headphone {
+  left: 34px;
+}
+
+.category-phone .computer {
+  left: 40px;
+}
+
+.category-phone .hover-2-false {
+  color: var(--text-2);
+}
+
+.category-phone .phone {
+  left: 55px;
+}
+
+.category-phone .hover-2-true.computer {
+  color: var(--primary);
+}
+
+.category-phone .gaming.hover-2-true {
+  color: var(--primary);
+}
+
+.category-phone .smart-watch.hover-2-true {
+  color: var(--primary);
+}
+
+.category-phone .hover-2-true.phone {
+  color: var(--primary);
+}
+
+.category-phone .hover-2-true.headphone {
+  color: var(--primary);
+}
+
+.category-phone .hover-2-true.camera {
+  color: var(--text);
+}

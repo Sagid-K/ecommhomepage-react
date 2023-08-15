@@ -1,0 +1,17 @@
+.four-half-star {
+  align-items: flex-start;
+  display: inline-flex;
+  position: relative;
+}
+
+.four-half-star .vector {
+  height: 14.3px;
+  position: relative;
+  width: 14.5px;
+}
+
+.four-half-star .star-half-filled {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}

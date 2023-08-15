@@ -1,0 +1,17 @@
+.fill-with-up-arrow {
+  background-color: #f5f5f5;
+  border-radius: 23px;
+  height: 46px;
+  position: relative;
+  transform: rotate(-90deg);
+  width: 46px;
+}
+
+.fill-with-up-arrow .icons-arrow-up {
+  height: 24px !important;
+  left: 11px !important;
+  position: absolute !important;
+  top: 11px !important;
+  transform: rotate(90deg) !important;
+  width: 24px !important;
+}

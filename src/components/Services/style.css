@@ -1,0 +1,62 @@
+.services {
+  height: 80px;
+  width: 80px;
+}
+
+.services .overlap-group-4 {
+  position: relative;
+}
+
+.services .ellipse-wrapper {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/3c518dc4b6968a56ff7d98e40f0e2d97/img/ellipse-6-12.svg);
+  background-size: 100% 100%;
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.services .ellipse-5 {
+  background-color: var(--button);
+  border-radius: 29px;
+  height: 58px;
+  left: 11px;
+  position: relative;
+  top: 11px;
+  width: 58px;
+}
+
+.services .instance-node-6 {
+  height: 40px !important;
+  left: 20px !important;
+  position: absolute !important;
+  top: 20px !important;
+  width: 40px !important;
+}
+
+.services.group-1000005937 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/3c518dc4b6968a56ff7d98e40f0e2d97/img/ellipse-6-12.svg);
+  background-size: 100% 100%;
+}
+
+.services.group-1000005937 .overlap-group-4 {
+  background-color: var(--button);
+  border-radius: 29px;
+  height: 58px;
+  left: 11px;
+  top: 11px;
+  width: 58px;
+}
+
+.services.money-back .overlap-group-4 {
+  height: 80px;
+}
+
+.services.delivery .overlap-group-4 {
+  height: 80px;
+}
+
+.services.customer-service .overlap-group-4 {
+  height: 80px;
+}

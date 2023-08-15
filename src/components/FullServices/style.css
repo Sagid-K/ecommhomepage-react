@@ -1,0 +1,19 @@
+.full-services {
+  align-items: center;
+  display: inline-flex;
+  gap: 88px;
+  justify-content: center;
+  position: relative;
+}
+
+.full-services .frame-18 {
+  flex: 0 0 auto !important;
+}
+
+.full-services .icon-customer {
+  height: 40px !important;
+  left: 20px !important;
+  position: absolute !important;
+  top: 20px !important;
+  width: 40px !important;
+}

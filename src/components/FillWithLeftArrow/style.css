@@ -1,0 +1,15 @@
+.fill-with-left-arrow {
+  background-color: #f5f5f5;
+  border-radius: 23px;
+  height: 46px;
+  position: relative;
+  width: 46px;
+}
+
+.fill-with-left-arrow .icons-arrow-left {
+  height: 24px !important;
+  left: 11px !important;
+  position: absolute !important;
+  top: 11px !important;
+  width: 24px !important;
+}

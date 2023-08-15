@@ -1,0 +1,200 @@
+.flash-sale-timer {
+  height: 50px;
+  position: relative;
+  width: 302px;
+}
+
+.flash-sale-timer .div {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.flash-sale-timer .text-wrapper {
+  color: var(--text-2);
+  font-family: var(--title-12px-medium-font-family);
+  font-size: var(--title-12px-medium-font-size);
+  font-style: var(--title-12px-medium-font-style);
+  font-weight: var(--title-12px-medium-font-weight);
+  letter-spacing: var(--title-12px-medium-letter-spacing);
+  line-height: var(--title-12px-medium-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: 31px;
+}
+
+.flash-sale-timer .text-wrapper-2 {
+  color: var(--text-2);
+  font-family: var(--heading-32px-bold-font-family);
+  font-size: var(--heading-32px-bold-font-size);
+  font-style: var(--heading-32px-bold-font-style);
+  font-weight: var(--heading-32px-bold-font-weight);
+  height: 28px;
+  letter-spacing: var(--heading-32px-bold-letter-spacing);
+  line-height: var(--heading-32px-bold-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.flash-sale-timer .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  height: 50px;
+  left: 84px;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.flash-sale-timer .text-wrapper-3 {
+  color: var(--text-2);
+  font-family: var(--title-12px-medium-font-family);
+  font-size: var(--title-12px-medium-font-size);
+  font-style: var(--title-12px-medium-font-style);
+  font-weight: var(--title-12px-medium-font-weight);
+  letter-spacing: var(--title-12px-medium-letter-spacing);
+  line-height: var(--title-12px-medium-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: 35px;
+}
+
+.flash-sale-timer .text-wrapper-4 {
+  color: var(--text-2);
+  font-family: var(--heading-32px-bold-font-family);
+  font-size: var(--heading-32px-bold-font-size);
+  font-style: var(--heading-32px-bold-font-style);
+  font-weight: var(--heading-32px-bold-font-weight);
+  letter-spacing: var(--heading-32px-bold-letter-spacing);
+  line-height: var(--heading-32px-bold-line-height);
+  margin-bottom: -1px;
+  margin-right: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flash-sale-timer .frame-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  height: 50px;
+  left: 164px;
+  position: absolute;
+  top: 0;
+  width: 49px;
+}
+
+.flash-sale-timer .text-wrapper-5 {
+  color: var(--text-2);
+  font-family: var(--title-12px-medium-font-family);
+  font-size: var(--title-12px-medium-font-size);
+  font-style: var(--title-12px-medium-font-style);
+  font-weight: var(--title-12px-medium-font-weight);
+  letter-spacing: var(--title-12px-medium-letter-spacing);
+  line-height: var(--title-12px-medium-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: 49px;
+}
+
+.flash-sale-timer .text-wrapper-6 {
+  color: var(--text-2);
+  font-family: var(--heading-32px-bold-font-family);
+  font-size: var(--heading-32px-bold-font-size);
+  font-style: var(--heading-32px-bold-font-style);
+  font-weight: var(--heading-32px-bold-font-weight);
+  height: 28px;
+  letter-spacing: var(--heading-32px-bold-letter-spacing);
+  line-height: var(--heading-32px-bold-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: 39px;
+}
+
+.flash-sale-timer .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  height: 50px;
+  left: 251px;
+  position: absolute;
+  top: 0;
+  width: 51px;
+}
+
+.flash-sale-timer .text-wrapper-7 {
+  color: var(--text-2);
+  font-family: var(--title-12px-medium-font-family);
+  font-size: var(--title-12px-medium-font-size);
+  font-style: var(--title-12px-medium-font-style);
+  font-weight: var(--title-12px-medium-font-weight);
+  letter-spacing: var(--title-12px-medium-letter-spacing);
+  line-height: var(--title-12px-medium-line-height);
+  margin-right: -1px;
+  margin-top: -1px;
+  position: relative;
+  width: 52px;
+}
+
+.flash-sale-timer .text-wrapper-8 {
+  color: var(--text-2);
+  font-family: var(--heading-32px-bold-font-family);
+  font-size: var(--heading-32px-bold-font-size);
+  font-style: var(--heading-32px-bold-font-style);
+  font-weight: var(--heading-32px-bold-font-weight);
+  letter-spacing: var(--heading-32px-bold-letter-spacing);
+  line-height: var(--heading-32px-bold-line-height);
+  margin-bottom: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flash-sale-timer .semiclone {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 63px;
+  position: absolute;
+  top: 26px;
+}
+
+.flash-sale-timer .ellipse {
+  background-color: #e07575;
+  border-radius: 2px;
+  height: 4px;
+  position: relative;
+  width: 4px;
+}
+
+.flash-sale-timer .semiclone-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 143px;
+  position: absolute;
+  top: 26px;
+}
+
+.flash-sale-timer .semiclone-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 230px;
+  position: absolute;
+  top: 26px;
+}

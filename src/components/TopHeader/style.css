@@ -1,0 +1,79 @@
+.top-header {
+  background-color: var(--button);
+  height: 48px;
+  width: 1440px;
+}
+
+.top-header .frame-28 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 231px;
+  left: 445px;
+  position: relative;
+  top: 12px;
+}
+
+.top-header .frame-29 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.top-header .text-wrapper-26 {
+  color: var(--text);
+  font-family: var(--title-14px-regular-font-family);
+  font-size: var(--title-14px-regular-font-size);
+  font-style: var(--title-14px-regular-font-style);
+  font-weight: var(--title-14px-regular-font-weight);
+  height: 18px;
+  letter-spacing: var(--title-14px-regular-letter-spacing);
+  line-height: var(--title-14px-regular-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: 474px;
+}
+
+.top-header .text-wrapper-27 {
+  color: var(--text);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.top-header .frame-30 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  justify-content: center;
+  position: relative;
+}
+
+.top-header .text-wrapper-28 {
+  color: var(--text);
+  font-family: var(--title-14px-regular-font-family);
+  font-size: var(--title-14px-regular-font-size);
+  font-style: var(--title-14px-regular-font-style);
+  font-weight: var(--title-14px-regular-font-weight);
+  letter-spacing: var(--title-14px-regular-letter-spacing);
+  line-height: var(--title-14px-regular-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.top-header .drop-down {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}

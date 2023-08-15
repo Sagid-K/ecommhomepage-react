@@ -1,0 +1,49 @@
+.header-wrapper {
+  align-items: center;
+  display: inline-flex;
+  gap: 148px;
+  position: relative;
+}
+
+.header-wrapper .frame-32 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 160px;
+  position: relative;
+}
+
+.header-wrapper .frame-33 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 48px;
+  position: relative;
+}
+
+.header-wrapper .design-component-instance-node-3 {
+  flex: 0 0 auto !important;
+}
+
+.header-wrapper .frame-34 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.header-wrapper .frame-35 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  justify-content: center;
+  position: relative;
+}
+
+.header-wrapper .icon-instance-node-2 {
+  height: 32px !important;
+  position: relative !important;
+  width: 32px !important;
+}

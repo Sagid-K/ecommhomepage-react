@@ -1,0 +1,78 @@
+.flash-sell-timer {
+  background-color: #000000;
+  border-radius: 31px;
+  height: 62px;
+  width: 62px;
+}
+
+.flash-sell-timer .frame {
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  top: 14px;
+}
+
+.flash-sell-timer .element {
+  color: var(--text);
+  font-family: var(--title-16px-semibold-font-family);
+  font-size: var(--title-16px-semibold-font-size);
+  font-style: var(--title-16px-semibold-font-style);
+  font-weight: var(--title-16px-semibold-font-weight);
+  letter-spacing: var(--title-16px-semibold-letter-spacing);
+  line-height: var(--title-16px-semibold-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flash-sell-timer .days {
+  color: var(--text);
+  font-family: "Poppins", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -4px;
+  position: relative;
+}
+
+.flash-sell-timer .minutes {
+  display: flex;
+  left: 10px;
+  width: 42px;
+}
+
+.flash-sell-timer .days-fill {
+  display: inline-flex;
+  left: 17px;
+}
+
+.flash-sell-timer .seconds {
+  display: flex;
+  left: 7px;
+  width: 48px;
+}
+
+.flash-sell-timer .hours {
+  display: inline-flex;
+  left: 15px;
+}
+
+.flash-sell-timer .frame.minutes .days {
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  width: 43px;
+}
+
+.flash-sell-timer .frame.days-fill .days {
+  width: 28px;
+}
+
+.flash-sell-timer .frame.seconds .days {
+  width: 48px;
+}
+
+.flash-sell-timer .frame.hours .days {
+  width: 32px;
+}

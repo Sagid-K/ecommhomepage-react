@@ -1,0 +1,69 @@
+.services-customer {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 262px;
+}
+
+.services-customer .div-wrapper {
+  height: 80px;
+  position: relative;
+  width: 80px;
+}
+
+.services-customer .overlap-group-6 {
+  height: 80px;
+  position: relative;
+}
+
+.services-customer .design-component-instance-node {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.services-customer .frame-16 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.services-customer .text-wrapper-14 {
+  color: #000000;
+  font-family: var(--title-20px-semibold-font-family);
+  font-size: var(--title-20px-semibold-font-size);
+  font-style: var(--title-20px-semibold-font-style);
+  font-weight: var(--title-20px-semibold-font-weight);
+  letter-spacing: var(--title-20px-semibold-letter-spacing);
+  line-height: var(--title-20px-semibold-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.services-customer .text-wrapper-15 {
+  color: #000000;
+  font-family: var(--title-14px-regular-font-family);
+  font-size: var(--title-14px-regular-font-size);
+  font-style: var(--title-14px-regular-font-style);
+  font-weight: var(--title-14px-regular-font-weight);
+  letter-spacing: var(--title-14px-regular-letter-spacing);
+  line-height: var(--title-14px-regular-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.services-customer .icon-headphone {
+  height: 40px !important;
+  left: 20px !important;
+  position: absolute !important;
+  top: 20px !important;
+  width: 40px !important;
+}

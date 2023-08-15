@@ -1,0 +1,93 @@
+.header {
+  position: relative;
+}
+
+.header .home-2 {
+  color: var(--text-2);
+  font-family: var(--title-16px-regular-font-family);
+  font-size: var(--title-16px-regular-font-size);
+  font-style: var(--title-16px-regular-font-style);
+  font-weight: var(--title-16px-regular-font-weight);
+  letter-spacing: var(--title-16px-regular-letter-spacing);
+  line-height: var(--title-16px-regular-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.header .class-5 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/3c518dc4b6968a56ff7d98e40f0e2d97/img/line-1-10.svg) !important;
+  top: unset !important;
+  width: 66px !important;
+}
+
+.header .class-6 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/3c518dc4b6968a56ff7d98e40f0e2d97/img/line-1-8.svg) !important;
+  top: unset !important;
+  width: 61px !important;
+}
+
+.header .class-7 {
+  top: unset !important;
+}
+
+.header .home-3 {
+  color: var(--text-2);
+  font-family: var(--title-16px-regular-font-family);
+  font-size: var(--title-16px-regular-font-size);
+  font-style: var(--title-16px-regular-font-style);
+  font-weight: var(--title-16px-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--title-16px-regular-letter-spacing);
+  line-height: var(--title-16px-regular-line-height);
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.header.home {
+  height: 24px;
+  width: 48px;
+}
+
+.header.header-contact-hover {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.header.about {
+  height: 24px;
+  width: 48px;
+}
+
+.header.header-home-hover {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.header.contact {
+  height: 24px;
+  width: 66px;
+}
+
+.header.sign-up {
+  height: 24px;
+  width: 61px;
+}
+
+.header.header-about-hover {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.header.header-sign-up-hover {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+}
